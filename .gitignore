@@ -1,0 +1,18 @@
+# --- Python 캐시 ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+
+# --- 기타 불필요한 파일 ---
+*.log
+*.tmp
+*.bak
+.vscode/
+.DS_Store
+Thumbs.db
